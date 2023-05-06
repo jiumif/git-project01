@@ -6,6 +6,8 @@ public class App {
         System.out.println("第二次提交");
         System.out.println("在hotfix上面的第一次提交");
         System.out.println("在hotfix上面的第二次提交");
+        System.out.println("在hotfix上面的第一次修改");
+
 
     }
 }
